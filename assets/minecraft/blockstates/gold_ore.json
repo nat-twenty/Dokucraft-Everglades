@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/gold_ore",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/gold_ore",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/gold_ore"
+      },
+      {
+        "model": "minecraft:block/gold_ore",
+        "y": 90
+      }
+    ]
+  }
+}

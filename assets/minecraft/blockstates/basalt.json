@@ -1,0 +1,81 @@
+{ "multipart": [
+    { "when": { "axis": "y" },
+      "apply": [
+        { "model": "block/basalt/sides_0", "weight": 1 },
+        { "model": "block/basalt/sides_1", "weight": 21 },
+        { "model": "block/basalt/sides_2", "weight": 21 },
+        { "model": "block/basalt/sides_3", "weight": 136 },
+        { "model": "block/basalt/sides_4", "weight": 21 },
+        { "model": "block/basalt/sides_5", "weight": 136 },
+        { "model": "block/basalt/sides_6", "weight": 136 },
+        { "model": "block/basalt/sides_7", "weight": 481 },
+        { "model": "block/basalt/sides_8", "weight": 21 },
+        { "model": "block/basalt/sides_9", "weight": 136 },
+        { "model": "block/basalt/sides_a", "weight": 136 },
+        { "model": "block/basalt/sides_b", "weight": 481 },
+        { "model": "block/basalt/sides_c", "weight": 136 },
+        { "model": "block/basalt/sides_d", "weight": 481 },
+        { "model": "block/basalt/sides_e", "weight": 481 },
+        { "model": "block/basalt/sides_f", "weight": 1250 }
+      ]
+    },
+    { "when": { "axis": "y" },
+      "apply": [
+        { "model": "block/basalt/ends_0", "weight": 1100 },
+        { "model": "block/basalt/ends_1", "weight": 1101 }
+      ]
+    },
+    { "when": { "axis": "z" },
+      "apply": [
+        { "model": "block/basalt/sides_0", "weight": 1, "x": 90 },
+        { "model": "block/basalt/sides_1", "weight": 21, "x": 90 },
+        { "model": "block/basalt/sides_2", "weight": 21, "x": 90 },
+        { "model": "block/basalt/sides_3", "weight": 136, "x": 90 },
+        { "model": "block/basalt/sides_4", "weight": 21, "x": 90 },
+        { "model": "block/basalt/sides_5", "weight": 136, "x": 90 },
+        { "model": "block/basalt/sides_6", "weight": 136, "x": 90 },
+        { "model": "block/basalt/sides_7", "weight": 481, "x": 90 },
+        { "model": "block/basalt/sides_8", "weight": 21, "x": 90 },
+        { "model": "block/basalt/sides_9", "weight": 136, "x": 90 },
+        { "model": "block/basalt/sides_a", "weight": 136, "x": 90 },
+        { "model": "block/basalt/sides_b", "weight": 481, "x": 90 },
+        { "model": "block/basalt/sides_c", "weight": 136, "x": 90 },
+        { "model": "block/basalt/sides_d", "weight": 481, "x": 90 },
+        { "model": "block/basalt/sides_e", "weight": 481, "x": 90 },
+        { "model": "block/basalt/sides_f", "weight": 1250, "x": 90 }
+      ]
+    },
+    { "when": { "axis": "z" },
+      "apply": [
+        { "model": "block/basalt/ends_0", "weight": 1100, "x": 90 },
+        { "model": "block/basalt/ends_1", "weight": 1101, "x": 90 }
+      ]
+    },
+    { "when": { "axis": "x" },
+      "apply": [
+        { "model": "block/basalt/sides_0", "weight": 1, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_1", "weight": 21, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_2", "weight": 21, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_3", "weight": 136, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_4", "weight": 21, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_5", "weight": 136, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_6", "weight": 136, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_7", "weight": 481, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_8", "weight": 21, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_9", "weight": 136, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_a", "weight": 136, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_b", "weight": 481, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_c", "weight": 136, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_d", "weight": 481, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_e", "weight": 481, "x": 90, "y": 90 },
+        { "model": "block/basalt/sides_f", "weight": 1250, "x": 90, "y": 90 }
+      ]
+    },
+    { "when": { "axis": "x" },
+      "apply": [
+        { "model": "block/basalt/ends_0", "weight": 1100, "x": 90, "y": 90 },
+        { "model": "block/basalt/ends_1", "weight": 1101, "x": 90, "y": 90 }
+      ]
+    }
+  ]
+}

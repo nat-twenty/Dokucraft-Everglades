@@ -1,0 +1,7 @@
+{
+  "credit": "Model created by Zorak Design - Contact me on discord for work: CesarZorak#0808",
+  "parent": "minecraft:block/template_cluster/large",
+  "textures": {
+		"phase": "block/fantasy_ores/amethyst_cluster/crystal_phase"
+  }
+}

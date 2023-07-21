@@ -1,0 +1,45 @@
+{ "variants": {
+    "axis=y": [
+      { "model": "block/log/dark_oak/y_axis/0",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/1",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/2",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/3",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/4",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/5",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/6",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/7",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/8",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/9",  "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/10", "weight": 3 },
+      { "model": "block/log/dark_oak/y_axis/11", "weight": 1 }
+    ],
+    "axis=z": [
+      { "model": "block/log/dark_oak/z_axis/0",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/1",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/2",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/3",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/4",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/5",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/6",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/7",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/8",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/9",  "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/10", "weight": 3 },
+      { "model": "block/log/dark_oak/z_axis/11", "weight": 1 }
+    ],
+    "axis=x": [
+      { "model": "block/log/dark_oak/x_axis/0",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/1",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/2",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/3",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/4",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/5",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/6",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/7",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/8",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/9",  "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/10", "weight": 3 },
+      { "model": "block/log/dark_oak/x_axis/11", "weight": 1 }
+    ]
+  }
+}

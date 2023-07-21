@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/budding_amethyst",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "minecraft:block/budding_amethyst",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "minecraft:block/budding_amethyst"
+    },
+    "facing=west": {
+      "model": "minecraft:block/budding_amethyst",
+      "y": 90
+    }
+  }
+}
