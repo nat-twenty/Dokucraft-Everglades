@@ -7,6 +7,6 @@
 	"everglades.mystical-01":{"category":"music","sounds":["everglades/mystical-01"]},
 	"everglades.traveltheme-01":{"category":"music","sounds":["everglades/traveltheme-01"]},
 	"everglades.westhaven":{"category":"music","sounds":["everglades/westhaven"]},
-	"everglades.westhaven-ambient":{"category":"music","sounds":["everglades/westhaven-ambient"]},
+	"everglades.westhaven-ambient":{"category":"ambient","sounds":["everglades/westhaven-ambient"]},
 	"item.goat_horn.sound.5":{"sounds":[{"name":"item/goat_horn/call51","volume":0.6},{"name":"item/goat_horn/call52","volume":1},{"name":"item/goat_horn/call53","volume":0.75}],"replace":true,"subtitle":"Harmonica"}
 }
