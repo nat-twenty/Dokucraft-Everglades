@@ -31,6 +31,10 @@
 		{ "type": "directory",
 			"source": "particle/chest",
 			"prefix": "particle/chest/"
+		},
+		{ "type":"directory",
+			"source":"entity",
+			"prefix":"entity/"
 		}
 	]
 }
