@@ -33,5 +33,7 @@
 	"everglades.westhaven-ambient":{"category":"ambient","sounds":["everglades/westhaven-ambient"]},
 	"item.goat_horn.sound.5":{"sounds":[{"name":"item/goat_horn/call5","volume":1},{"name":"item/goat_horn/call5-2","volume":1},{"name":"item/goat_horn/call5-3","volume":1}],"replace":true,"subtitle":"Harmonica"},
 	"everglades.entity.coppercreature.laser":{"category":"hostile","sounds":[{"name":"everglades/entity/laserfire01","volume":1},{"name":"everglades/entity/laserfire02","volume":1}],"subtitle":"Laser"},
-	"everglades.emeraldcoast.wilderness":{"category":"music","sounds":[{"name":"everglades/emeraldcoast/wilderness-01","volume":1},{"name":"everglades/emeraldcoast/wilderness-02","volume":1},{"name":"everglades/emeraldcoast/wilderness-03","volume":1}]}
+	"everglades.emeraldcoast.wilderness":{"category":"music","sounds":[{"name":"everglades/emeraldcoast/wilderness-01","volume":1},{"name":"everglades/emeraldcoast/wilderness-02","volume":1},{"name":"everglades/emeraldcoast/wilderness-03","volume":1}]},
+	"everglades.emeraldcoast.ldwell":{"category":"music","sounds":["everglades/emeraldcoast/confrontation"]},
+	"everglades.emeraldcoast.lifedrinker":{"category":"music","sounds":["everglades/emeraldcoast/dungeoncrawler"]}
 }
