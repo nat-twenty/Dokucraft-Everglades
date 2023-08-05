@@ -1,0 +1,38 @@
+{
+	"credit": "Made by betaklerik with Blockbench",
+	"parent": "builtin/generated",
+	"textures": {
+    "particle": "./transparent_icon",
+		"layer0": "./items/diamond_sword"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 10, 0.5],
+			"scale": [2, 2, 1.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 10, 0.5],
+			"scale": [2, 2, 1.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 9, -1],
+			"scale": [1.5, 1.5, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 9, -1],
+			"scale": [1.5, 1.5, 1]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [1.5, 1.5, 1]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}
