@@ -1,21 +1,9 @@
-{
-  "variants": {
+{ "variants": {
     "": [
-      {
-        "model": "minecraft:block/iron_ore",
-        "y": 270
-      },
-      {
-        "model": "minecraft:block/iron_ore",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/iron_ore"
-      },
-      {
-        "model": "minecraft:block/iron_ore",
-        "y": 90
-      }
+      { "model": "block/ore/iron/0" },
+      { "model": "block/ore/iron/1" },
+      { "model": "block/ore/iron/2" },
+      { "model": "block/ore/iron/3" }
     ]
   }
 }

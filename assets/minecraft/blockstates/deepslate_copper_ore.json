@@ -1,21 +1,18 @@
-{
-  "variants": {
-    "": [
-      {
-        "model": "minecraft:block/deepslate_copper_ore",
-        "y": 270
-      },
-      {
-        "model": "minecraft:block/deepslate_copper_ore",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/deepslate_copper_ore"
-      },
-      {
-        "model": "minecraft:block/deepslate_copper_ore",
-        "y": 90
-      }
-    ]
-  }
+{ "multipart": [
+    { "apply": [
+        { "model": "minecraft:block/deepslate_ores/copper/sides/0" },
+        { "model": "minecraft:block/deepslate_ores/copper/sides/1" },
+        { "model": "minecraft:block/deepslate_ores/copper/sides/2" },
+        { "model": "minecraft:block/deepslate_ores/copper/sides/3" },
+        { "model": "minecraft:block/deepslate_ores/copper/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "minecraft:block/deepslate_ores/copper/ends/0" },
+        { "model": "minecraft:block/deepslate_ores/copper/ends/1" },
+        { "model": "minecraft:block/deepslate_ores/copper/ends/2" },
+        { "model": "minecraft:block/deepslate_ores/copper/ends/3" }
+      ]
+    }
+  ]
 }

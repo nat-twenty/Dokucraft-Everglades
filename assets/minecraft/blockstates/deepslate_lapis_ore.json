@@ -1,21 +1,18 @@
-{
-  "variants": {
-    "": [
-      {
-        "model": "minecraft:block/deepslate_lapis_ore",
-        "y": 270
-      },
-      {
-        "model": "minecraft:block/deepslate_lapis_ore",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/deepslate_lapis_ore"
-      },
-      {
-        "model": "minecraft:block/deepslate_lapis_ore",
-        "y": 90
-      }
-    ]
-  }
+{ "multipart": [
+    { "apply": [
+        { "model": "minecraft:block/deepslate_ores/lapis/sides/0" },
+        { "model": "minecraft:block/deepslate_ores/lapis/sides/1" },
+        { "model": "minecraft:block/deepslate_ores/lapis/sides/2" },
+        { "model": "minecraft:block/deepslate_ores/lapis/sides/3" },
+        { "model": "minecraft:block/deepslate_ores/lapis/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "minecraft:block/deepslate_ores/lapis/ends/0" },
+        { "model": "minecraft:block/deepslate_ores/lapis/ends/1" },
+        { "model": "minecraft:block/deepslate_ores/lapis/ends/2" },
+        { "model": "minecraft:block/deepslate_ores/lapis/ends/3" }
+      ]
+    }
+  ]
 }

@@ -1,21 +1,9 @@
-{
-  "variants": {
+{ "variants": {
     "": [
-      {
-        "model": "minecraft:block/gilded_blackstone",
-        "y": 270
-      },
-      {
-        "model": "minecraft:block/gilded_blackstone",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/gilded_blackstone"
-      },
-      {
-        "model": "minecraft:block/gilded_blackstone",
-        "y": 90
-      }
+      { "model": "block/gilded_blackstone/0" },
+      { "model": "block/gilded_blackstone/1" },
+      { "model": "block/gilded_blackstone/2" },
+      { "model": "block/gilded_blackstone/3" }
     ]
   }
 }
